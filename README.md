@@ -58,4 +58,4 @@ The app is intentionally lightweight so you can run it locally or push to GitHub
 - CSV updates are local; in deployments you'd use a database or API.
 
 ---
-Created for a student project / mini-project submission.
+ mini-project submission.
